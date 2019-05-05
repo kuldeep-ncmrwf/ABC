@@ -1,0 +1,1 @@
+the rainfall data in tar file rain07-18.tar contains the observed rainfall data for monsoon season of 2007-18. one control file and one binary file of each year has been provided. the ctl contains all the info about the data including domain, resolution and period. 
